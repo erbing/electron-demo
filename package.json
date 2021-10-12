@@ -19,6 +19,6 @@
   "homepage": "https://github.com/erbing/electron-demo#readme",
   "dependencies": {},
   "devDependencies": {
-    "electron": "^4.1.4"
+    "electron": "^11.5.0"
   }
 }
